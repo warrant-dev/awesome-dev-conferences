@@ -8,6 +8,7 @@
 | ---------- | ---- | -------- | ----- |
 | [GraphQL Summit](https://summit.graphql.com/event/9cabb0aa-eb3c-4bfd-bf74-3dcc4c82c066/summary) | graphql, web | San Diego | Oct 3-5, 2022 |
 | [HashiConfGlobal](https://hashiconf.com/global/) | infra, devops | Los Angeles | Oct 4-6, 2022 |
+| [Cloudflare Connect SF](https://events.www.cloudflare.com/flow/cloudflare/connect22sf/landing/page/page) | infra, networking | San Francisco | Oct 18, 2022 |
 | [ELC Annual](https://sfelc.com/annual2022) | eng leadership | San Francisco | Oct 27-28, 2022 |
 | [Jamstack Conf](https://jamstack.org/conf/) | jamstack, web | San Francisco | Nov 7-8, 2022 |
 
