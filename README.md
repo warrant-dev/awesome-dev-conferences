@@ -12,7 +12,9 @@
 | [Cloudflare Connect SF](https://events.www.cloudflare.com/flow/cloudflare/connect22sf/landing/page/page) | infra, networking | San Francisco | Oct 18, 2022 |
 | [Go West Conf](https://www.gowestconf.com/) | golang | Lehi | Oct 21, 2022 |
 | [ELC Annual](https://sfelc.com/annual2022) | eng leadership | San Francisco | Oct 27-28, 2022 |
+| [Developer Productivity Engineering Summit 2022](https://dpesummit.com/) | dev productivity, builds | San Francisco | Nov 2-3, 2022 |
 | [Jamstack Conf](https://jamstack.org/conf/) | jamstack, web | San Francisco | Nov 7-8, 2022 |
+| [GitHub Universe 2022](https://githubuniverse.com/) | cloud, security, github | San Francisco | Nov 9-10, 2022 |
 
 ## Past
 
