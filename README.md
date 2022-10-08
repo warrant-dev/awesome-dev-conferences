@@ -22,7 +22,7 @@
 | ---------- | ---- | -------- | ----- |
 | [Sec4Dev](https://sec4dev.io/) | security | Vienna | Sep 6-9, 2022 |
 | [CascadiaJS](https://2022.cascadiajs.com/) | web, js | Sunriver, OR, USA | Aug 30-Sep 2, 2022 |
-
+| [RailsConf](https://railsconf.org/) | rails | Portland | May 17-19, 2022 |
 
 ## Contributing
 
